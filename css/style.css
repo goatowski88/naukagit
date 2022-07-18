@@ -1,0 +1,12 @@
+h1 {
+	font-weight: 900;
+	letter-spacing: 3px;
+	padding-left: 21px;
+	margin-bottom: -27px;
+}
+
+p {
+	font-size: 1.2em;
+    font-style: italic;
+    padding: 27px;
+}
